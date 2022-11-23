@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OliverMaerz
-- 👀 I’m interested in Software Development for Web and Deep Learning 
+- 👀 I’m interested in software engineering for web and deep learning 
 - 🌱 I’m currently learning how to fly an airplane
 - 💞️ I’m looking to collaborate on any fun programming
 
