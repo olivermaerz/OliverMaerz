@@ -3,7 +3,7 @@
 - 🛩️ In my free time, I like to fly airplanes and explore the skies.
 - 💻 Currently, I'm working on some react native projects
 - 🤝 I’m looking to collaborate on open-source projects related to aviation
-- 📫 How to reach me: [https://www.linkedin.com/in/olivermaerz/].
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olivermaerz/).
 
 <!---
 
