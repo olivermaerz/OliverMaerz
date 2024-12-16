@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @olivermaerz
 - 👀 I’m interested in software engineering and deep learning.
-- 🛩️ In my free time, I like to fly airplanes and explore the skies.
-- 💻 Currently, I'm working on some react native projects.
-- 🤝 I’m looking to collaborate on open-source projects related to aviation.
+- 🛩️ In my free time, I like to explore the skies.
+- 💻 Currently, I'm working on some react, react native, and nodejs projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olivermaerz/).
 
 <!---
